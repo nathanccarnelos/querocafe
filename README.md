@@ -1,9 +1,9 @@
 # tomanocupacero™️
 <div style="text-align: center">
-    <img src="./tomanocupacero.jpeg" height="300"/>
+    <img src="./cracudinhas.png" height="300"/>
 </div>
 
-> Tmnc pacero to chei de ódio [video](https://twitter.com/mcpozedorodo/status/1194809058194264064?lang=en)
+> 72 cracudinhas de manhã [video](https://twitter.com/ecl3sio/status/1291469302424571904?s=20)
 
 ## Compatibilidade
 
@@ -14,19 +14,11 @@
 ## Rodando com [npx](https://www.npmjs.com/package/npx)
 Rode o comando:
 
-    npx tomanocupacero
-
-
-## Rodando via CLI
-Instale globalment e rode o comando:
-
-    npm install -g tomanocupacero
-
-    tomanocupacero
-
+    npx cracudinhas
 
 ## Veja também
 
+ - [Toma no cu pacero](https://github.com/imdanielpiva/tomanocupacero)
  - [Oloquinho](https://github.com/oloquinho/oloquinho)
  - [xFiles](https://github.com/BrOrlandi/xfiles/)
  - [Faustão Errou](https://github.com/BrOrlandi/faustao-errou/)

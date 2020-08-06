@@ -1,28 +1,26 @@
 {
-  "name": "tomanocupacero",
-  "version": "0.0.4",
-  "description": "Toma no cu pacero eu to chei de odio",
+  "name": "cracudinhas",
+  "version": "0.0.1",
+  "description": "72 cracudinhas de manhã, olha o barulho dessa merda",
   "main": "src/cli.js",
   "scripts": {
     "start": "node src/cli.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/imdanielpiva/tomanocupacero.git"
+    "url": "git@github.com:EclesioMeloJunior/cracudinhas.git"
   },
   "keywords": [
-    "mc",
-    "poze"
+    "cracudinhas",
+    "manhã",
+    "moto"
   ],
-  "author": "Daniel Piva <imdanielpiva@gmail.com>",
+  "author": "Eclésio Melo <eclesiomelo.1@gmail.com>",
   "license": "MIT",
   "bin": {
     "tomanocupacero": "./src/cli.js"
   },
-  "bugs": {
-    "url": "https://github.com/imdanielpiva/tomanocupacero/issues"
-  },
-  "homepage": "https://github.com/imdanielpiva/tomanocupacero#readme",
+  "homepage": "https://github.com/EclesioMeloJunior/cracudinhas",
   "dependencies": {
     "meow": "^7.0.1"
   }
