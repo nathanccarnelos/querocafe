@@ -9,12 +9,15 @@ const mainPath = path.dirname(fs.realpathSync(__filename));
 const windowsScript = path.join(mainPath, './forWindows.jscript');
 const soundPath = path.join(mainPath, './audios/cracudinhas');
 
+
 const deliveryCracudinhas = () => {
   const commandsForEachPlatform = {
     linux: `paplay ${soundPath}.ogg`,
     darwin: `afplay ${soundPath}.mp3`,
     win32: `cscript /E:JScript /nologo "${windowsScript}" "${soundPath}.mp3"`,
   };
+
+  console.log(mainPath)
 
   const platform = process.platform;
   const codeToExecute = commandsForEachPlatform[platform];

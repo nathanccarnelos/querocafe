@@ -1,4 +1,4 @@
-# tomanocupacero™️
+# Cracudinhas
 <div style="text-align: center">
     <img src="./cracudinhas.png" height="300"/>
 </div>
