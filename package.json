@@ -1,26 +1,27 @@
 {
-  "name": "cracudinhas",
+  "name": "querocafe",
   "version": "0.0.1",
-  "description": "72 cracudinhas de manhã, olha o barulho dessa merda",
+  "description": "quero café, quero café é",
   "main": "src/cli.js",
   "scripts": {
     "start": "node src/cli.js"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:EclesioMeloJunior/cracudinhas.git"
+    "url": "git@github.com:nathanccarnelos/querocafe.git"
   },
   "keywords": [
-    "cracudinhas",
-    "manhã",
-    "moto"
+    "querocafe",
+    "cafe",
+    "vovo",
+    "quero cafe"
   ],
-  "author": "Eclésio Melo <eclesiomelo.1@gmail.com>",
+  "author": "Nathan Carnelos <nathancoltinho@gmail.com>",
   "license": "MIT",
   "bin": {
-    "cracudinhas": "./src/cli.js"
+    "querocafe": "./src/cli.js"
   },
-  "homepage": "https://github.com/EclesioMeloJunior/cracudinhas",
+  "homepage": "https://github.com/nathanccarnelos/querocafe",
   "dependencies": {
     "meow": "^7.0.1"
   }

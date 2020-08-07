@@ -7,10 +7,10 @@ const execPromise = promisify(exec);
 
 const mainPath = path.dirname(fs.realpathSync(__filename));
 const windowsScript = path.join(mainPath, './forWindows.jscript');
-const soundPath = path.join(mainPath, './audios/cracudinhas');
+const soundPath = path.join(mainPath, './audios/queroCafe');
 
 
-const deliveryCracudinhas = () => {
+const deliveryQueroCafe = () => {
   const commandsForEachPlatform = {
     linux: `paplay ${soundPath}.ogg`,
     darwin: `afplay ${soundPath}.mp3`,
@@ -25,4 +25,4 @@ const deliveryCracudinhas = () => {
   return execPromise(codeToExecute);
 };
 
-module.exports = deliveryCracudinhas;
+module.exports = deliveryQueroCafe;
