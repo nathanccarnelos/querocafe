@@ -1,4 +1,4 @@
-# Cracudinhas
+# QueroCafé
 <div style="text-align: center">
     <img src="./vovoQueroCafe.png" height="300"/>
 </div>
